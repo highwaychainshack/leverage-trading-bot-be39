@@ -1,4 +1,4 @@
-# 
+# smart leverage trading bot Addon | backtesting + high-frequency is the best leverage trading bot, featuring backtesting and high-frequency. Smart, fast, and optimized for trading
 
 
 
